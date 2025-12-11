@@ -1,0 +1,8 @@
+{
+  "name": "Nexus Tube AI",
+  "description": "A next-gen video platform where you can watch, upload, and generate content using Google Gemini Veo.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
